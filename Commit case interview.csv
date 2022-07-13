@@ -1,0 +1,11 @@
+School_Name,number_of_students,number_of_4th_graders ,%_economically_disadvantaged,%_Hispanic,%_African_American,%_English_Language_Learners,number_taking_BOY_math,number_passing_BOY_math,number_taking_EOY_math,number_passing_EOY_math,teacher_attend_summer_PD,%_teachers_using_PD_strategies,student_using_MathFast,number_of_computers_per_class,avg_lessons_completed_weekly,avg_time_per_lesson,Use_Summer_Math_Review,number_of_students_using_SMR,%_students_using_SMR,%_students_1_ hour_or_more_weekly,%_students_less_than_1_hr_weekly
+A,500,90,95%,75%,20%,66%,90,17,90,17,No,n/a,Yes,1.6,1.2,13.6,Yes,90,56%,35%,65%
+B,600,100,98%,88%,50%,67%,100,32,100,29,Yes,12%,Yes,3.5,3.3,5.2,No,n/a,n/a,n/a,n/a
+C,400,70,90%,7%,80%,68%,70,19,70,20,Yes,51%,No,2,n/a,n/a,Yes,70,21%,49%,51%
+D,300,55,84%,85%,5%,50%,55,21,55,18,No,n/a,Yes,0.7,1.2,8.5,Yes,55,26%,11%,89%
+E,550,90,97%,20%,75%,25%,90,19,90,22,Yes,22%,Yes,0.5,1.8,12,No,90,n/a,n/a,n/a
+F,650,105,96%,30%,66%,33%,105,38,105,44,No,n/a,No,2.6,n/a,n/a,Yes,105,70%,72%,28%
+G,450,75,80%,90%,3%,24%,75,31,75,34,No,n/a,Yes,3.2,2,16.9,Yes,75,n/a,n/a,n/a
+H,350,60,97%,72%,16%,40%,60,15,60,19,Yes,75%,Yes,0.4,0.5,16,Yes,60,76%,58%,42%
+I,400,70,98%,74%,15%,16%,70,13,70,21,Yes,81%,Yes,4,4,4.4,Yes,70,40%,20%,80%
+J,600,100,91%,88%,5%,10%,100,18,100,26,Yes,62%,Yes,2,1.8,5.4,No,n/a,n/a,n/a,n/a
